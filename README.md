@@ -1,5 +1,4 @@
-##########################################################################
-Final project for face detector at image url
+|Final project for face detector at image url|
 
         ###############
         Clone this repo
